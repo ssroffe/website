@@ -1,0 +1,47 @@
+Website Functions
+MAIN PURPOSE - Group activities
+
+*Gift Exchange - Immediate
+DnD - LongTerm
+Truth or Dare - Side project
+King's Rules - Side Project
+
+
+Pages
+------
+*Home page - Function select
+*About - Information (Purpose, Creators, etc.)
+*Contact
+*Update Log/Information
+Suggestions
+
+Systems
+--------
+Login/Logout/Group Management/Permissions
+*Databases - Groups, accounts, passwords, etc.
+*Mail server - make work with Outlook
+*idiot-proofing
+voice-irc-chat
+small(<5MB free, possible payment for more) file transfers
+*adsense
+*encryptions
+--social media connections
+
+
+
+Gift Exchange
+-------------
+Groups - Prebuilt or Construct
+Exceptions - Who can't get Whom
+Missing emails - text file emailed to group leader?
+Confirmation of list
+Time limit - How often should reminders be sent?
+Overall Group access key
+Username/Password for each person
+If group is confirmed and sent out, possible access to page to see whom you got
+Forgot password, change email, remove from group
+
+        DnD
+--------------------
+Chat - Voice/irc
+
