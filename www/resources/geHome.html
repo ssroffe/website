@@ -1,0 +1,18 @@
+<menu>
+    <ul>
+    <a href="#"><li id="accessGroup" class="button">
+        Access Existing Group
+    </li>
+        </a>
+    <a href="#"><li class="button" id="createGroup">
+        Create a New Group
+    </li> </a>
+</menu>
+
+    <script>
+    $(document).ready(function(){
+        $("#accessGroup").click(function(){
+            $("#content").load('resources/accessGroup.html');
+        });
+    });
+</script>

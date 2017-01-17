@@ -1,0 +1,63 @@
+html, body{
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    padding: 0;
+    background: darkgrey;
+    color: forestgreen;
+}
+
+#container {
+    text-align:center;
+    width:100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    text-align: center;
+    width: 100%;
+    height: 15vh;
+    margin: 0;
+    padding: 0;
+}
+
+#accessGroup {
+    text-align: center;
+    width: 100%;
+    min-height: 5vh;
+    margin: 0;
+    padding: 0;
+}
+
+#getinfo {
+    text-align:center;
+    width: 60%;
+    height: 40vh;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 0;
+    font-size: 2em;
+}
+
+#createGroup {
+    text-align: center;
+    width: 100%;
+    min-height: 5vh;
+    margin: 0;
+    padding; 0;
+}
+
+#currentNames {
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    }
+
+.dataInput{
+    text-align: center;
+    font-size: 1.5em;
+    width: 60%;
+}
